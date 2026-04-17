@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "name": "Sarah Mitchell",
+    "picture": "https://randomuser.me/api/portraits/women/44.jpg",
+    "email": "sarah.mitchell@gmail.com",
+    "days_since_contact": 18,
+    "status": "overdue",
+    "tags": ["college", "close friend"],
+    "bio": "My best friend from college. We used to pull all-nighters for exams and now we barely talk. She's a pediatric nurse and an amazing human being.",
+    "goal": 14,
+    "next_due_date": "2025-07-10"
+  },
+  {
+    "id": 2,
+    "name": "Marcus Johnson",
+    "picture": "https://randomuser.me/api/portraits/men/32.jpg",
+    "email": "marcus.j@outlook.com",
+    "days_since_contact": 5,
+    "status": "on-track",
+    "tags": ["work", "mentor"],
+    "bio": "My first manager at my internship. He taught me everything I know about software architecture. We still grab coffee every few weeks.",
+    "goal": 14,
+    "next_due_date": "2025-07-28"
+  },
+  {
+    "id": 3,
+    "name": "Emma Wilson",
+    "picture": "https://randomuser.me/api/portraits/women/68.jpg",
+    "email": "emmawilson@protonmail.com",
+    "days_since_contact": 29,
+    "status": "overdue",
+    "tags": ["family", "childhood"],
+    "bio": "Former colleague, great mentor. We worked together at the same startup for 3 years. Now she runs her own design studio in Berlin.",
+    "goal": 21,
+    "next_due_date": "2025-07-05"
+  },
+  {
+    "id": 4,
+    "name": "David Kim",
+    "picture": "https://randomuser.me/api/portraits/men/46.jpg",
+    "email": "dkim.dev@gmail.com",
+    "days_since_contact": 10,
+    "status": "almost due",
+    "tags": ["hobby", "travel"],
+    "bio": "Met David at a hiking meetup two years ago. We've since done three multi-day trails together. He's an aerospace engineer by day, adventurer by heart.",
+    "goal": 14,
+    "next_due_date": "2025-07-22"
+  },
+  {
+    "id": 5,
+    "name": "Priya Nair",
+    "picture": "https://randomuser.me/api/portraits/women/26.jpg",
+    "email": "priya.nair@yahoo.com",
+    "days_since_contact": 3,
+    "status": "on-track",
+    "tags": ["college", "work"],
+    "bio": "Priya and I were lab partners in our data structures class. She's now a data scientist at a major fintech company and we regularly swap career advice.",
+    "goal": 10,
+    "next_due_date": "2025-08-01"
+  },
+  {
+    "id": 6,
+    "name": "Tom Baker",
+    "picture": "https://randomuser.me/api/portraits/men/12.jpg",
+    "email": "tombaker@icloud.com",
+    "days_since_contact": 35,
+    "status": "overdue",
+    "tags": ["neighbor", "close friend"],
+    "bio": "Tom was my neighbor for five years. We used to watch football every Sunday. He moved away last year but deserves a proper check-in call.",
+    "goal": 30,
+    "next_due_date": "2025-07-01"
+  },
+  {
+    "id": 7,
+    "name": "Olivia Martinez",
+    "picture": "https://randomuser.me/api/portraits/women/54.jpg",
+    "email": "olivia.m@gmail.com",
+    "days_since_contact": 6,
+    "status": "on-track",
+    "tags": ["work", "gym"],
+    "bio": "We met at the company gym at 6 AM. Olivia is a UX researcher who gives the most brutally honest design feedback. Also an amazing salsa dancer.",
+    "goal": 14,
+    "next_due_date": "2025-07-30"
+  },
+  {
+    "id": 8,
+    "name": "Ryan O'Brien",
+    "picture": "https://randomuser.me/api/portraits/men/77.jpg",
+    "email": "ryan.obrien@gmail.com",
+    "days_since_contact": 12,
+    "status": "almost due",
+    "tags": ["college", "hobby"],
+    "bio": "Ryan's been my roommate, my bandmate, and my emergency contact at some point. He plays bass guitar in a local band and teaches music on weekends.",
+    "goal": 14,
+    "next_due_date": "2025-07-18"
+  }
+]
