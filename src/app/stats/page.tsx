@@ -145,7 +145,7 @@ export default function StatsPage() {
                       cornerRadius={24}
                       label={renderCustomLabel}
                       labelLine={false}
-                      activeIndex={activeIndex ?? undefined}
+                      {...({ activeIndex: activeIndex ?? undefined } as any)}
                       activeShape={renderActiveShape}
                       onMouseEnter={(_, index) => setActiveIndex(index)}
                       onMouseLeave={() => setActiveIndex(null)}
@@ -158,7 +158,7 @@ export default function StatsPage() {
                       ))}
                     </Pie>
                     <Tooltip
-                      formatter={(value: number, name: string) => [`${value} interaction${value !== 1 ? 's' : ''}`, name]}
+                      formatter={(value: any, name: any) => [`${value} interaction${value !== 1 ? 's' : ''}`, name]}
                       contentStyle={{ borderRadius: '12px', border: '1px solid #f0f0f0', fontSize: '13px' }}
                     />
                   </PieChart>
