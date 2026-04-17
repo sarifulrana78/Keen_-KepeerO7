@@ -37,7 +37,7 @@ export default function HomePage() {
       {/* Banner */}
       <section className="relative py-24 px-4 bg-white border-b border-gray-100">
         <div className="max-w-4xl mx-auto text-center relative z-10">
-          <h1 className="text-4xl md:text-5xl lg:text-6xl font-extrabold text-gray-900 mb-6 tracking-tight">
+          <h1 className="text-4xl md:text-5xl lg:text-[54px] whitespace-nowrap font-extrabold text-gray-900 mb-6 tracking-tight">
             Friends to keep close in your life
           </h1>
           <p className="text-gray-500 text-lg mb-10 max-w-xl mx-auto leading-relaxed">
